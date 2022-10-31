@@ -1,11 +1,11 @@
 
 *****Manual*****
-Home page
+*****Home page*****
  - Can fill name city in English & Thai
  - Display temperature for today
  - Display humidity for today
  - Can switch temperature between Celsius and Fahrenheit
-List page
+*****List page*****
  - Can see whole-day forecast
 
 *****Pattern*****
